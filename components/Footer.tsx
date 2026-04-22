@@ -5,14 +5,14 @@ export default function Footer() {
       <div className="container">
         <div className="wrap">
           <div className="brand-block">
-            <div className="logo">BRAND</div>
+            <div className="logo">BPM ent</div>
             <div className="credit">Website made by You</div>
           </div>
 
           <div>
             <h5>Products</h5>
-            <a href="#">BRAND One</a>
-            <a href="#">BRAND Pure</a>
+            <a href="#">BPM ent One</a>
+            <a href="#">BPM ent Pure</a>
             <a href="#">Find retailer</a>
           </div>
 

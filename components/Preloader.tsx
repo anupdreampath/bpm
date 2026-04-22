@@ -21,7 +21,7 @@ export default function Preloader() {
         className="pre-logo"
         style={{ opacity: 0, transform: "translateY(12px)" }}
       >
-        BRAND
+        BPM ent
       </div>
     </div>
   );

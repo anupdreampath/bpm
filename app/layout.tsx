@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "BRAND One — the world's brightest desk luminaire",
+  title: "BPM ent One — the world's brightest desk luminaire",
   description:
     "Structural replica of the heavn-one landing template. Replace copy and assets with your own brand.",
 };

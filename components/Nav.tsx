@@ -23,11 +23,11 @@ export default function Nav() {
   return (
     <header ref={ref} className="nav">
       <a href="#" className="logo" aria-label="Home">
-        BRAND
+        BPM ent
       </a>
       <div className="pill" aria-hidden="false">
         <a href="#" className="logo" aria-label="Home">
-          BRAND
+          BPM ent
         </a>
         <a href="#order" className="pill-btn">
           Order now

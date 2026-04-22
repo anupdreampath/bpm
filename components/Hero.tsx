@@ -4,7 +4,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { CDN } from "@/lib/assets";
 
-const TITLE_TOP = "BRAND";
+const TITLE_TOP = "BPM ent";
 const TITLE_BOTTOM = "One";
 
 export default function Hero() {
